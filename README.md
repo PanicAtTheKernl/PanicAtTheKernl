@@ -1,107 +1,38 @@
-# Hector Pugh
+# PanicAtTheKernl
 
-```typescript
-const profile = {
-  name: "Hector Pugh",
-  bio: "Creative web dev & modder blending sleek design with chaotic energy. Specialized in glitchy UIs, cursed HTML, and debugging the weird stuff. ",
-  currentWork: "Unemployed",
-  learning: "Learning Java, Python and Javascript",
-  interests: "Creative web dev & modder blending sleek design with chaotic energy. Specialized in glitchy UIs,cursed HTML,and debugging the weird stuff.",
-  skills: [
-    "HTML5",
-    "Tailwind",
-    "Node.js",
-    "MySQL",
-    "SQLite",
-    "Docker",
-    "JavaScript",
-    "Java",
-    "Python"
-  ],
-}
-```
+**Fixing shit that shouldn’t be broken.**  
+Debian user. ThinkPad rider. Terminal junkie.  
 
-## 🔭 I'm currently working on
+---
 
-Unemployed
+## What I do
 
-## 🌱 I'm currently learning
+- Develop clean, maintainable code with an obsession for efficiency and performance.  
+- Dive deep into debugging and reverse engineering — if it’s broken, I’m your guy.  
+- Optimize legacy systems and squeeze every bit of power from hardware and software.  
+- Write automation scripts to kill repetitive tasks and boost productivity.  
+- Maintain open-source projects focused on performance improvements and bug fixes.  
 
-Learning Java, Python and Javascript
+---
 
-## 👀 I'm interested in
+## Tools & Tech
 
-Creative web dev & modder blending sleek design with chaotic energy. Specialized in glitchy UIs, cursed HTML, and debugging the weird stuff. 
+`Debian` | `Linux` | `Java` | `Python` | `Git` | `Vim` | `Docker` | `Bash` | `Make` | `Minecraft Modding`
 
-## 👀 Visitor Count
+---
 
-<!-- ⚠️ Important: Replace 'PanicAtTheKernl' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/PanicAtTheKernl/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+## What Drives Me
 
-## 📊 GitHub Stats
+> “The only way to do great work is to love what you do.” — Except I also love tearing apart code and rebuilding it better.  
 
-<!-- ⚠️ Important: Replace 'PanicAtTheKernl' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanicAtTheKernl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+I’m not here to write bloated, flashy code. I’m here to build solid foundations, keep systems lean, and make sure everything runs like a well-oiled machine.
 
-## 🔝 Most Used Languages
+---
 
-<!-- ⚠️ Important: Replace 'PanicAtTheKernl' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanicAtTheKernl&layout=compact&langs_count=10&theme=dark"/>
-</div>
+## GitHub Stats
 
-## 💻 Tech Stack
+![Stats](https://github-readme-stats.vercel.app/api?username=PanicAtTheKernl&show_icons=true&theme=radical)
 
-```json
-{
-  "frontend": [
-    "HTML5",
-    "Tailwind"
-  ],
-  "backend": [
-    "Node.js",
-    "MySQL",
-    "SQLite"
-  ],
-  "devops": [
-    "Docker"
-  ],
-  "languages": [
-    "JavaScript",
-    "Java",
-    "Python"
-  ]
-}
-```
+---
 
-## 🌐 Socials
-
-```javascript
-const socials = {
-  github: "PanicAtTheKernl",
-}
-```
-
-<div>
-<a href="https://github.com/PanicAtTheKernl"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "hectorpugh08@icloud.com",
-}
-```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
+*If it ain’t broken, I haven’t looked hard enough.*
