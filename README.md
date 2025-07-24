@@ -1,7 +1,7 @@
 # PanicAtTheKernl
 
 **Fixing shit that shouldn’t be broken.**  
-Debian user. ThinkPad rider. Terminal junkie.  
+Debian user. ThinkPad enjoyer. Terminal junkie.  
 
 ---
 
